@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+   }
+   a{
+     text-decoration: none;
+     padding: 5px;
+   }
+   a:hover{
+     text-decoration: underline;
+   }
+   nav{
+     display: flex;
+     justify-content: space-between;
+   }
+   .class-1{
+     display: flex;
+     text-align: center;
+   }
+   .class-2{
+     display: flex;
+     text-align: center;
+   }
